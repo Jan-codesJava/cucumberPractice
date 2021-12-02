@@ -1,0 +1,42 @@
+package step_definitions;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class OrdersSteps {
+
+    @Given("a registered user exits")
+    public void a_registered_user_exits() {
+
+    }
+    @Given("user is on Amazon login page")
+    public void user_is_on_amazon_login_page() {
+
+    }
+    @When("user enters username")
+    public void user_enters_username() {
+
+    }
+    @When("user enters password")
+    public void user_enters_password() {
+
+    }
+    @When("user clicks on login button")
+    public void user_clicks_on_login_button() {
+
+    }
+    @Then("user navigates to order page")
+    public void user_navigates_to_order_page() {
+
+    }
+    @Then("user navigates on order link")
+    public void user_navigates_on_order_link() {
+
+    }
+    @Then("user checks the previous order details")
+    public void user_checks_the_previous_order_details() {
+
+    }
+
+}
